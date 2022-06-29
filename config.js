@@ -41,32 +41,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['761192103'] //ur owner number
-global.ownername = "Udavin Wijesundara"
-global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
-global.socialm = "Insta: udavin_wijesundara" //ur github or insta name
-global.location = "Sri-Lanka" //ur location
+global.owner = ['9567979976'] //ur owner number
+global.ownername = "𝑺𝑴𝑶𝑲𝑬𝒀 𝑺𝑬𝑹 ✓"
+global.ytname = "YT: 𝑺𝑴𝑶𝑲𝑬𝒀 𝑴𝑶𝑫𝒁" //ur yt chanel name
+global.socialm = "Insta: _mr__s_m_o_k_e_y_" //ur github or insta name
+global.location = "𝒌𝒐𝒍𝒍𝒂𝒎" //ur location
 
 //bot bombdy
-global.botname = "White King WhatsApp Bot" //ur bot name
-global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //ur website
+global.botname = "sᴍᴏᴋᴇʏ sᴇʀ ᴡᴘ ʙᴏᴛ" //ur bot name
+global.websitex = "https:// https://instagram.com/_mr__s_m_o_k_e_y_?igshid=MDI0Mzk1ZWY=" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "Udavin Wijesundara"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['761192103'] //ur owner tag
-global.ownernummenu = ['761192103'] //ur owner number in menu and all
-global.watermark = "White King WhatsApp Bot." //ur watermark
-global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
-global.linkz1 = "https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"
-global.linkz2 = "https://chat.whatsapp.com/Jub3moTE7jaBERo8DqWXC1"
+global.packname = "sᴍᴏᴋᴇʏ sᴇʀ Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "ɴɪᴊᴏ sᴇʀ"
+global.themeemoji = "😻"
+global.reactmoji = "💖"
+global.ownertag = ['9567979976'] //ur owner tag
+global.ownernummenu = ['9567979976'] //ur owner number in menu and all
+global.watermark = "ᴍʀ.sᴍᴏᴋᴇʏ ᴡᴘ ʙᴏᴛ." //ur watermark
+global.botscript = "https://https://api.whatsapp.com/send?phone=+919567979976"
+global.linkz1 = "https://https://chat.whatsapp.com/KRl6X1sVoUdD6VUrrXXFd4"
+global.linkz2 = "https://https://instagram.com/_mr__s_m_o_k_e_y_?igshid=MDI0Mzk1ZWY="
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./https://i.imgur.com/o6u47eT.jpeg") //ur thumb pic
+global.log0 = fs.readFileSync("./https://i.imgur.com/o6u47eT.jpeg") //ur logo pic
+global.err4r = fs.readFileSync("./https://i.imgur.com/o6u47eT.jpeg") //ur error pic
+global.thumb = fs.readFileSync("./https://i.imgur.com/o6u47eT.jpeg") //ur thumb pic
 
 //database
 global.ntilinkytvid = []
